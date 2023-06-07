@@ -1,0 +1,15 @@
+.footerLogo {
+    display: flex;
+    align-items: center;
+    margin-right: 0px;
+}
+
+.cFooter {
+color: rgba(0, 0, 0, 0.6);
+font-size: 30px;
+}
+.ounterFooter {
+    color: rgba(0, 0, 0, 0.3);
+    font-size: 20px;
+}
+

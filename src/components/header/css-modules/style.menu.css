@@ -1,0 +1,18 @@
+.menu {
+    display: flex;
+    align-items: center;
+    margin-right: 335px;
+}
+
+.menuList {
+    display: flex;
+    list-style: none;
+}
+li {
+    margin-left: 30px;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+}

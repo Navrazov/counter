@@ -1,0 +1,38 @@
+.increase {
+    margin-left: 55px;
+    background: #003399;
+    width: 200px;
+    font-size: 24px;
+    padding: 15px 42px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.decrease {
+    margin-left: 55px;
+    background: #F27C0F;
+    width: 200px;
+    font-size: 24px;
+    padding: 15px 42px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.reset {
+    margin-left: 55px;
+    background: #E5E5E5;
+    width: 200px;
+    font-size: 24px;
+    padding: 15px 42px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    color: #000000;
+}

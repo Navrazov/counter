@@ -1,0 +1,21 @@
+.logo{
+    display: flex;
+    align-items: center;
+    margin-left: 335px;
+}
+.cLogo {
+    color: #003399;
+    font-size: 60px;
+}
+
+.ounterLogo {
+    color: #F27C0F; 
+    font-size: 39px;
+    font-weight: 700;
+    font-size: 39px;
+    line-height: 47px;
+}
+
+.blockLogo {
+    align-items: flex-start;
+}
